@@ -1,8 +1,6 @@
 # example-backend
-CRUD y manejo de sesiones en mysql
-clients(cod,name,city)
-users(name,password)
-cities(cod,name)
+Explicacion de la pagina:
+URL:https://www.notion.so/Pruebas-FRONTED-y-PHP-a33392b8e5f847a796434e4dda5e9b4d
 Desarrollo web
 la pagina esta alojada en la siguiente URL
 http://pepitoarriendo.tonohost.com/index.php
